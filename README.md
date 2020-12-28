@@ -12,7 +12,7 @@
 - [Author](#Author)
 
 ## Medium Blog 
-
+https://data-clash.medium.com/how-much-will-an-airbnb-stay-with-a-pool-cost-in-seattle-34783c0ce83e 
 
 
 ## Installation
@@ -38,10 +38,7 @@ There are 4 files available in the project
 3. AirBnb Seattle Data Analysis.html (HTML page for quick viewing)
 4. listings_seattle.csv (data file about Information about the houses in Seattle).
 5. listings.csv (Cleaned File saved after wrangling)
-
-## Results
-With my analysis of the shared data I found out that
-1. 
+6. calender.csv : Per day listing prices from 4 Jan 2016 to 2 Jan 2017.
 
 ## Author
 
