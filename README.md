@@ -29,16 +29,15 @@ This dataset describes the listing activity of homestays in Seattle. Data is cle
 
 Listings, including full descriptions and average review score from 4 Jan 2016 to 2 Jan 2017. 
 
-https://www.kaggle.com/airbnb/seattle
+You can download the data from here: https://www.kaggle.com/airbnb/seattle 
+We need 2 files for analysis: listings.csv and calender.csv
 
 ## File descriptions
 There are 4 files available in the project
 1. Readme.md 
 2. AirBnb Seattle Data Analysis.ipynb (the python Notebook)
 3. AirBnb Seattle Data Analysis.html (HTML page for quick viewing)
-4. listings_seattle.csv (data file about Information about the houses in Seattle).
-5. listings.csv (Cleaned File saved after wrangling)
-6. calender.csv : Per day listing prices from 4 Jan 2016 to 2 Jan 2017.
+
 
 ## Author
 
