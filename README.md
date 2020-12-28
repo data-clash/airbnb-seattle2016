@@ -3,13 +3,16 @@
 
 ## Table of contents
 
+- [Blog](#medium-blog)
 - [Installation](#installation)
 - [Project motivation](#project-motivation)
 - [Data Source](#data-source)
 - [File descriptions](#file-descriptions)
 - [Results](#results)
 - [Author](#Author)
-- [Thanks](#thanks)
+
+## Medium Blog 
+
 
 
 ## Installation
@@ -46,6 +49,4 @@ Anuja Jadhav
 - https://github.com/data-clash/
 - www.linkedin.com/in/anuja-jadhav-80632a54
 - anuja.a.jadhav@gmail.com
-
-Blog at Medium - 
 
